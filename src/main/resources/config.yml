@@ -1,0 +1,11 @@
+#死亡头颅掉落模块
+death_module:
+  #冷却时间
+  cooling_time: 5
+  #合成附魔金苹果
+  compound: true
+
+tip:
+  killer1: "§c该玩家近期已被猎杀，无法获得头颅！"
+  killer2: "§a你获得了 §6<name> §a的头颅！"
+headName: "§e<name>的头颅"
